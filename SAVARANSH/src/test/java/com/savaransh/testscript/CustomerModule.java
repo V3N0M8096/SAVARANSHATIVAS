@@ -1,4 +1,4 @@
-package com.ativas.testscript;
+package com.savaransh.testscript;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;

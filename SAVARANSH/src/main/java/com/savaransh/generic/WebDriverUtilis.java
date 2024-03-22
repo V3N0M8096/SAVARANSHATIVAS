@@ -1,4 +1,4 @@
-package com.ativas.generic;
+package com.savaransh.generic;
 
 public class WebDriverUtilis {
 

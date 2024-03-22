@@ -11,41 +11,41 @@
       <![CDATA[modifyCustomer]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-03-21T08:25:36 IST" name="Suite" finished-at="2024-03-21T08:25:36 IST" duration-ms="391">
+  <suite started-at="2024-03-22T11:51:46 IST" name="Suite" finished-at="2024-03-22T11:51:46 IST" duration-ms="174">
     <groups>
       <group name="regressiontest">
-        <method signature="CustomerModule.createCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" name="createCustomer" class="com.ativas.testscript.CustomerModule"/>
-        <method signature="CustomerModule.deleteCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" name="deleteCustomer" class="com.ativas.testscript.CustomerModule"/>
-        <method signature="CustomerModule.modifyCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" name="modifyCustomer" class="com.ativas.testscript.CustomerModule"/>
+        <method signature="CustomerModule.createCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" name="createCustomer" class="com.savaransh.testscript.CustomerModule"/>
+        <method signature="CustomerModule.deleteCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" name="deleteCustomer" class="com.savaransh.testscript.CustomerModule"/>
+        <method signature="CustomerModule.modifyCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" name="modifyCustomer" class="com.savaransh.testscript.CustomerModule"/>
       </group> <!-- regressiontest -->
       <group name="smoketest">
-        <method signature="CustomerModule.createCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" name="createCustomer" class="com.ativas.testscript.CustomerModule"/>
+        <method signature="CustomerModule.createCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" name="createCustomer" class="com.savaransh.testscript.CustomerModule"/>
       </group> <!-- smoketest -->
     </groups>
-    <test started-at="2024-03-21T08:25:36 IST" name="Test" finished-at="2024-03-21T08:25:36 IST" duration-ms="391">
-      <class name="com.ativas.testscript.CustomerModule">
-        <test-method signature="createCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" started-at="2024-03-21T08:25:36 IST" name="createCustomer" finished-at="2024-03-21T08:25:36 IST" duration-ms="37" status="PASS">
+    <test started-at="2024-03-22T11:51:46 IST" name="Test" finished-at="2024-03-22T11:51:46 IST" duration-ms="174">
+      <class name="com.savaransh.testscript.CustomerModule">
+        <test-method signature="createCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" started-at="2024-03-22T11:51:46 IST" name="createCustomer" finished-at="2024-03-22T11:51:46 IST" duration-ms="23" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[CreateCustomer]]>
             </line>
           </reporter-output>
         </test-method> <!-- createCustomer -->
-        <test-method signature="deleteCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" started-at="2024-03-21T08:25:36 IST" name="deleteCustomer" finished-at="2024-03-21T08:25:36 IST" duration-ms="4" status="PASS">
+        <test-method signature="deleteCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" started-at="2024-03-22T11:51:46 IST" name="deleteCustomer" finished-at="2024-03-22T11:51:46 IST" duration-ms="6" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[deleteCustomer]]>
             </line>
           </reporter-output>
         </test-method> <!-- deleteCustomer -->
-        <test-method signature="modifyCustomer()[pri:0, instance:com.ativas.testscript.CustomerModule@27462a88]" started-at="2024-03-21T08:25:36 IST" name="modifyCustomer" finished-at="2024-03-21T08:25:36 IST" duration-ms="8" status="PASS">
+        <test-method signature="modifyCustomer()[pri:0, instance:com.savaransh.testscript.CustomerModule@27462a88]" started-at="2024-03-22T11:51:46 IST" name="modifyCustomer" finished-at="2024-03-22T11:51:46 IST" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[modifyCustomer]]>
             </line>
           </reporter-output>
         </test-method> <!-- modifyCustomer -->
-      </class> <!-- com.ativas.testscript.CustomerModule -->
+      </class> <!-- com.savaransh.testscript.CustomerModule -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

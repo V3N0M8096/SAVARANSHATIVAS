@@ -1,4 +1,4 @@
-package com.ativas.pom;
+package com.savaransh.pom;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
